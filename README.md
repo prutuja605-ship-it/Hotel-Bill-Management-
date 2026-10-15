@@ -1,2 +1,3 @@
 # Hotel-Bill-Management-
-simple program on hotel bill management 
+simple program on hotel bill management .....
+not input from user just bill total amount,gst,discount,final payable amount
